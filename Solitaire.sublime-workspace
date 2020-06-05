@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ca",
+				"CarListPrice"
+			],
+			[
+				"Cu",
+				"Cust_City"
+			],
+			[
+				"Dep",
+				"department_id"
+			],
+			[
+				"dep",
+				"department"
+			],
+			[
+				"I_",
+				"I_ManufactureYear"
+			],
+			[
+				"depart",
+				"department_id"
+			],
+			[
+				"I",
+				"I_ManufactureYear"
+			],
+			[
+				"Card",
+				"CardSuit"
+			],
+			[
+				"Print",
+				"PrintSuit"
+			],
+			[
+				"print",
+				"PrintValue"
+			],
+			[
+				"Produ",
+				"ProductID"
+			],
+			[
+				"Product",
+				"Product_T"
+			],
+			[
+				"Ord",
+				"OrderLine_T"
+			],
+			[
+				"Cus",
+				"CustomerID"
+			],
+			[
+				"Order",
+				"OrderedQuantity"
+			],
+			[
+				"ORd",
+				"Order_T"
+			],
+			[
+				"Custo",
+				"CustomerID"
+			],
+			[
+				"cUSTO",
+				"CustomerID"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"student",
+				"studentUsername"
+			],
+			[
+				"Prin",
+				"PrintAssignmentHeader"
+			],
+			[
+				"Custom",
+				"Customer_T"
+			],
+			[
+				"Prod",
+				"ProductStandardPrice"
+			],
+			[
+				"Produc",
+				"Product_T"
+			],
+			[
+				"total",
+				"totalCredits"
+			],
+			[
+				"begi",
+				"beginningBalance"
+			],
+			[
+				"credi",
+				"creditLimit"
+			],
+			[
+				"month",
+				"monthlyInterestRate"
+			],
+			[
+				"yea",
+				"yearlyPeriod"
+			],
+			[
+				"Yea",
+				"YearlyPeriod"
+			],
+			[
+				"FindPa",
+				"FindPayableAmountV2"
+			],
+			[
+				"Discount",
+				"DiscountPercentage"
+			],
+			[
+				"exerc",
+				"exerciseFour"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C# Compile & Run/CSharpSingleFileBuild.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":we",
+				":w - Save"
+			],
+			[
+				":e",
+				":e - Revert"
+			],
+			[
+				":x",
+				"Set Syntax: XML"
+			],
+			[
+				":sql",
+				"Set Syntax: SQL"
+			],
+			[
+				":W",
+				":w - Save"
+			],
+			[
+				":c",
+				"Set Syntax: C#"
+			],
+			[
+				":instal",
+				"Package Control: Install Package"
+			],
+			[
+				":",
+				":$ - EOF"
+			],
+			[
+				":c#",
+				"Set Syntax: C#"
+			],
+			[
+				":C",
+				"Set Syntax: C"
+			],
+			[
+				":install",
+				"Package Control: Install Package"
+			],
+			[
+				":install pa",
+				"Package Control: Install Package"
+			],
+			[
+				":them",
+				"UI: Select Theme"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gamb0l/dev/csharp/solitaire"
+	],
+	"file_history":
+	[
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/DeckOfCards.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/ExerciseSet4.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog20799/m3/InClass2.c",
+		"/home/gamb0l/design/game/DeepSpaceTactical_Concept.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/INFO/ch1and2QuizQuestions.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/week3.sql",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/Assignment1_aholab.sql",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/TextbookCh7Examples.sql",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/Quiz1_aholab.sql",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/listTables.sql",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/week2.sql",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/Makefile",
+		"/home/gamb0l/.gdbinit",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/employee.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/struct.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog20799/m3/array_insert.c",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog20799/m3/array_delete.c",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog20799/m3/mul_matrix.c",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog20799/m1/hailstone.c",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/m3/part1/exercise1/css/mystyles.css",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/m3/part1/exercise1/js/myscript.js",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/Card.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/gtktest.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/WinFromsTest.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/js/vendor/jquery.js",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w3/InClassTopics.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/Ch4Examples.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/ExerciseSet3.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/out.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/ExerciseSet1.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/ExerciseSet2.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/xclip",
+		"/tmp/url.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog32356/w2/InClass.cs",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/prog20799/m3/inclass_matrix.c",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/css/style.css",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/index.html",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/.gitignore",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/js/aholab.js",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/js/personal.js",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/pages/personal.html",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/syst24444/as1/js/vendor/lodash.js",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/connectioncommand.sh",
+		"/home/gamb0l/doc/study/adventOfCode/d1/RocketEquation.cs",
+		"/home/gamb0l/doc/study/adventOfCode/d1/input.txt",
+		"/home/gamb0l/doc/study/sheridan/sheridan_summer2020/dbas32100/TextbookCh6Examples.sql",
+		"/home/gamb0l/doc/study/sheridan/summer2020/dbas32100/PVFC.sql",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut2q4.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/dbas32100/TextbookCh6Examples.sql",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut1q.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut2q2.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m2/tut2q3.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog32356/w2/ExerciseSet2.cs",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog32356/w2/ExerciseSet1.cs",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog32356/w2/Ch4Examples.cs",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/tutq1.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/tutq2.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/tutq3.c",
+		"/home/gamb0l/doc/study/sheridan/summer2020/prog20799/m1/funcDef.c"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enum",
+			"let"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 460.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Solitaire.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

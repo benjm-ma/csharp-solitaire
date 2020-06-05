@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5VPL5K1pjN4FxxLvxXTeCiaPF60o63NSyNHYC4mZgLVTCE0pa/+ewiQdxACM51tCNKUNN/QKMpyaDdpynbQXug==",
+  "success": true,
+  "projectFilePath": "/home/gamb0l/dev/csharp/solitaire/solitaire.csproj",
+  "expectedPackageFiles": [
+    "/home/gamb0l/.nuget/packages/nstack.core/0.14.0/nstack.core.0.14.0.nupkg.sha512",
+    "/home/gamb0l/.nuget/packages/terminal.gui/0.81.0/terminal.gui.0.81.0.nupkg.sha512",
+    "/home/gamb0l/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
